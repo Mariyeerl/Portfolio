@@ -44,7 +44,7 @@ Check out my live website here:
 
 ## 🎨 Screenshots
 
-<p align="center">
+<p align="center" float="left">
   <img src="screenshot%20readme1.png" alt="Portfolio preview 1" width="500" style="border-radius:10px;">
   <img src="screenshot%20readme2.png" alt="Portfolio preview 2" width="500" style="border-radius:10px;">
 </p>
