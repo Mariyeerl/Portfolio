@@ -29,7 +29,7 @@ The goal was to design a **responsive**, visually appealing, and simple website 
 ## 🌐 Live Demo
 
 Check out my live website here:  
-👉 [**Click to view the live demo**](https://mariyeerl.github.io/portfolio/)
+👉 [**Click to view the live demo**](https://mariyeerl.github.io/Portfolio/)
 
 
 ---
