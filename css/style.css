@@ -1,0 +1,144 @@
+body {
+    background-color:#eddfdc;
+    margin: 0;
+}
+
+.bigimg {
+    position: fixed;
+    margin-top: 0%;
+    min-height: 100%;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.containerhomepage > div {
+    display: flex;   
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+}
+
+.mariye {
+    font-size: 8vw;
+    font-family: Brush Script MT;
+    position: absolute;
+    top: 22%;
+    right: 4.6%;
+    color: #7a1919;
+}
+
+.navbar {
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 1%;
+    z-index: 1000;
+}
+
+.heading {
+    display: none;
+}
+
+.subicon {
+    cursor: pointer;
+    display: block;
+    width: 10%;
+}
+
+.subicon img {
+    width: 100%;
+    height: auto;
+}
+
+.subheadings {
+    display: block;
+    padding: 2%;
+    text-decoration: none;
+    color: #7a1919;
+}
+
+a.subheadings:hover {
+    color: #784d4d;
+    transition: 0.5s ease-in-out;
+}
+
+.menu {
+    font-size: 30px;
+    font-family: Arial black, sans-serif;
+    position: fixed;
+    top: 0;
+    right: -70%;
+    width: 54%;
+    height: 100vh;
+    background: #7a1919;
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.7);
+    padding: 2%;
+    transition: right 0.5s ease;
+}
+
+.menu a {
+    display: block;
+    margin-top: 7%;
+    padding: 1%;
+    text-decoration: none;
+    color: #c7bcbc;
+    text-align: center;
+}
+
+.heading:checked ~ .menu {
+   right: 0;
+}
+
+.closebutton {
+    position: absolute;
+    cursor: pointer;
+    display: block;
+    width: 8%;
+    top: 2%;
+    right: 2%;
+}
+
+.closebutton img {
+    width: 100%;
+    height: auto;
+}
+
+.childhood {
+    display: flex;
+    gap: 10%;
+}
+
+/* RIGHT SIDE SCROLL*/
+
+.rightside {
+    flex: 1;
+    padding: 1%;
+    text-align: right;
+    padding-top: 43%;
+}
+
+.mainpics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.mainpics img {
+    width: 28%;
+    max-width: 100%;
+}
+
+p {
+    font-size: 19px;
+}
+
+h3 {
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-color: #7a1919;
+}
