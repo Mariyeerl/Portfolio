@@ -27,8 +27,10 @@ The goal was to design a **responsive**, visually appealing, and simple website 
 ---
 
 ## 🌐 Live Demo
-Once published, you can view it here:  
-👉 [**Live Demo**]([https://mariyeerl.github.io/Portfolio/])
+
+Check out my live website here:  
+👉 [**Click to view the live demo**](https://mariyeerl.github.io/portfolio/)
+
 
 ---
 
