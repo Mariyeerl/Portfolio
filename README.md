@@ -5,7 +5,7 @@ It showcases my homepage, education background and my expectations, hobbies, and
 
 ---
 
-## 🧠 Overview
+## 📱 Overview
 This project was created to practice front-end development fundamentals and design skills.  
 The website includes four main pages:
 
